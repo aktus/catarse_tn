@@ -1,4 +1,4 @@
-<img src="http://desmond.imageshack.us/Himg252/scaled.php?server=252&filename=cloude.jpg&res=medium" />
+{<img src="http://desmond.imageshack.us/Himg252/scaled.php?server=252&filename=cloude.jpg&res=medium" />}
 
 
 http://www.cloudingenierie.tn
